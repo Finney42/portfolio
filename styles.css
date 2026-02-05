@@ -10,3 +10,10 @@ p {
 body{
    background-color: rgb(144, 199, 133);
 }
+button{
+  background-color: rgb(0, 38, 255);
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
