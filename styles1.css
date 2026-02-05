@@ -98,3 +98,11 @@ a:hover {
 a:active {
   color: brown;
 }
+
+button{
+  background-color: rgb(252, 232, 197);
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
