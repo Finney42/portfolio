@@ -5,6 +5,10 @@ body {
   background-color: brown;
 }
 
+.nav {
+ 
+  text-align: left;
+}
 .card {
   background-color: white;
   max-width: 400px;
@@ -84,4 +88,8 @@ button{
   padding: 10px 20px;
   margin: 5px;
   cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: black;
 }
